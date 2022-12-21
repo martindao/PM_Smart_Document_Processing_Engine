@@ -1,0 +1,58 @@
+# Smart Document Processing Engine
+
+An intelligent document processing system using machine learning for automated document analysis and processing.
+
+## Features
+- Automated document parsing and extraction
+- Natural Language Processing (NLP) for content analysis
+- Machine learning-based document classification
+- OCR (Optical Character Recognition) capabilities
+- Automated report generation
+- Embedding generation for semantic search
+- Assignment automation and workflow management
+
+## Components
+
+- `main.py` - Main application entry point
+- `app.py` - Core application logic
+- `models.py` - ML models and data structures
+- `optimization.py` - Performance optimization utilities
+- `utils.py` - General utility functions
+
+## Usage
+
+Run the main application:
+```bash
+python main.py
+```
+
+Process documents:
+```bash
+python app.py --input documents/ --output results/
+```
+
+## Dependencies
+
+- pandas
+- numpy
+- scikit-learn
+- transformers
+- torch
+- opencv-python
+- pytesseract
+
+## Configuration
+
+Update configuration settings in `.env` file:
+```
+MODEL_PATH=./models/
+DATA_PATH=./data/
+OUTPUT_PATH=./outputs/
+```
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
