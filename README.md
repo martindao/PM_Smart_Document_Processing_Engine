@@ -56,3 +56,5 @@ OUTPUT_PATH=./outputs/
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
+
+- [2022-12-22] (Assignments) schedule note: Tune embedding scoring for Assignments
