@@ -45,3 +45,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# [2022-12-27] (Assignments) schedule note: Add diagnostics for Assignments
