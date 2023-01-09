@@ -119,3 +119,5 @@ def perform_eda(prd_data, engineers):
     plt.ylabel('Count')
     plt.savefig('eda_engineer_roles.png')
     logging.info("Saved EDA plot as eda_engineer_roles.png")
+
+# [2023-01-09] (Extraction) schedule note: Document PRD automation results for Extraction
