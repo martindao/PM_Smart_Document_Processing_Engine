@@ -58,3 +58,5 @@ OUTPUT_PATH=./outputs/
 4. Submit a pull request
 
 - [2022-12-22] (Assignments) schedule note: Tune embedding scoring for Assignments
+
+- [2023-01-10] (Extraction) schedule note: Add diagnostics for Extraction
