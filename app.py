@@ -80,3 +80,5 @@ if __name__ == "__main__":
     run_app()
 
 # [2022-12-23] (PRD) schedule note: Tune embedding scoring for PRD
+
+# [2023-01-10] (Extraction) schedule note: Improve document extraction for Extraction
