@@ -60,3 +60,5 @@ OUTPUT_PATH=./outputs/
 - [2022-12-22] (Assignments) schedule note: Tune embedding scoring for Assignments
 
 - [2023-01-10] (Extraction) schedule note: Add diagnostics for Extraction
+
+- [2023-01-24] (Assignments) schedule note: Document PRD automation results for Assignments
