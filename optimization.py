@@ -39,3 +39,5 @@ def optimize_workload_knapsack(assignments, engineers):
     return best_assignment
 
 # [2023-01-03] (Extraction) schedule note: Document PRD automation results for Extraction
+
+# [2023-01-27] (PRD) schedule note: Improve document extraction for PRD
