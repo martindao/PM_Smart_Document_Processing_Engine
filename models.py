@@ -70,3 +70,5 @@ class ReinforcementLearningModel(AdvancedNLPModel):
 # [2022-12-30] (Embeddings) schedule note: Document PRD automation results for Embeddings
 
 # [2023-01-12] (Extraction) schedule note: Document PRD automation results for Extraction
+
+# [2023-01-27] (Embeddings) schedule note: Improve document extraction for Embeddings
