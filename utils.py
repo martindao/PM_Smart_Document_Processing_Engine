@@ -121,3 +121,5 @@ def perform_eda(prd_data, engineers):
     logging.info("Saved EDA plot as eda_engineer_roles.png")
 
 # [2023-01-09] (Extraction) schedule note: Document PRD automation results for Extraction
+
+# [2023-02-06] (Extraction) schedule note: Improve document extraction for Extraction
