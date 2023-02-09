@@ -84,3 +84,5 @@ if __name__ == "__main__":
 # [2023-01-10] (Extraction) schedule note: Improve document extraction for Extraction
 
 # [2023-01-25] (PRD) schedule note: Add diagnostics for PRD
+
+# [2023-02-09] (Embeddings) schedule note: Document PRD automation results for Embeddings
