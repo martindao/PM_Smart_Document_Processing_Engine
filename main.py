@@ -51,3 +51,5 @@ if __name__ == "__main__":
 # [2022-12-29] (Assignments) schedule note: Document PRD automation results for Assignments
 
 # [2023-01-26] (Assignments) schedule note: Improve document extraction for Assignments
+
+# [2023-02-13] (Extraction) schedule note: Add diagnostics for Extraction
