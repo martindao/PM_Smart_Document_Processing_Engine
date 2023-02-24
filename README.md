@@ -64,3 +64,5 @@ OUTPUT_PATH=./outputs/
 - [2023-01-24] (Assignments) schedule note: Document PRD automation results for Assignments
 
 - [2023-02-08] (Embeddings) schedule note: Document PRD automation results for Embeddings
+
+- [2023-02-24] (PRD) schedule note: Improve document extraction for PRD
