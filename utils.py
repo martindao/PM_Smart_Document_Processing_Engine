@@ -125,3 +125,5 @@ def perform_eda(prd_data, engineers):
 # [2023-02-06] (Extraction) schedule note: Improve document extraction for Extraction
 
 # [2023-02-23] (Assignments) schedule note: Document PRD automation results for Assignments
+
+# [2023-03-09] (Assignments) schedule note: Tune embedding scoring for Assignments
