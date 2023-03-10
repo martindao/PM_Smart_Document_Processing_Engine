@@ -88,3 +88,5 @@ if __name__ == "__main__":
 # [2023-02-09] (Embeddings) schedule note: Document PRD automation results for Embeddings
 
 # [2023-02-24] (Embeddings) schedule note: Tune embedding scoring for Embeddings
+
+# [2023-03-10] (PRD) schedule note: Tune embedding scoring for PRD
