@@ -45,3 +45,5 @@ def optimize_workload_knapsack(assignments, engineers):
 # [2023-02-13] (Embeddings) schedule note: Improve document extraction for Embeddings
 
 # [2023-03-02] (Extraction) schedule note: Add diagnostics for Extraction
+
+# [2023-03-14] (Assignments) schedule note: Document PRD automation results for Assignments
