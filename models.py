@@ -78,3 +78,5 @@ class ReinforcementLearningModel(AdvancedNLPModel):
 # [2023-03-01] (Assignments) schedule note: Tune embedding scoring for Assignments
 
 # [2023-03-13] (PRD) schedule note: Tune embedding scoring for PRD
+
+# [2023-03-27] (PRD) schedule note: Tune embedding scoring for PRD
