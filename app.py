@@ -92,3 +92,5 @@ if __name__ == "__main__":
 # [2023-03-10] (PRD) schedule note: Tune embedding scoring for PRD
 
 # [2023-03-24] (Assignments) schedule note: Add diagnostics for Assignments
+
+# [2023-04-07] (Assignments) schedule note: Tune embedding scoring for Assignments
