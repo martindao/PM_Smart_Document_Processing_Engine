@@ -94,3 +94,5 @@ if __name__ == "__main__":
 # [2023-03-24] (Assignments) schedule note: Add diagnostics for Assignments
 
 # [2023-04-07] (Assignments) schedule note: Tune embedding scoring for Assignments
+
+# [2023-04-24] (Embeddings) schedule note: Improve document extraction for Embeddings
