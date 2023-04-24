@@ -72,3 +72,5 @@ OUTPUT_PATH=./outputs/
 - [2023-03-23] (Embeddings) schedule note: Document PRD automation results for Embeddings
 
 - [2023-04-07] (Extraction) schedule note: Document PRD automation results for Extraction
+
+- [2023-04-24] (PRD) schedule note: Tune embedding scoring for PRD
