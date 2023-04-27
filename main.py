@@ -61,3 +61,5 @@ if __name__ == "__main__":
 # [2023-03-27] (Assignments) schedule note: Tune embedding scoring for Assignments
 
 # [2023-04-11] (Extraction) schedule note: Improve document extraction for Extraction
+
+# [2023-04-27] (Embeddings) schedule note: Improve document extraction for Embeddings
