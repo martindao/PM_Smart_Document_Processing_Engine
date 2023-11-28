@@ -76,3 +76,5 @@ OUTPUT_PATH=./outputs/
 - [2023-04-24] (PRD) schedule note: Tune embedding scoring for PRD
 
 - [2023-11-09] (Assignments) schedule note: Tune embedding scoring for Assignments
+
+- [2023-11-28] (Assignments) schedule note: Add diagnostics for Assignments
