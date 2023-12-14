@@ -78,3 +78,5 @@ OUTPUT_PATH=./outputs/
 - [2023-11-09] (Assignments) schedule note: Tune embedding scoring for Assignments
 
 - [2023-11-28] (Assignments) schedule note: Add diagnostics for Assignments
+
+- [2023-12-14] (Embeddings) schedule note: Add diagnostics for Embeddings
