@@ -88,3 +88,5 @@ class ReinforcementLearningModel(AdvancedNLPModel):
 # [2023-11-14] (PRD) schedule note: Add diagnostics for PRD
 
 # [2023-11-30] (Assignments) schedule note: Add diagnostics for Assignments
+
+# [2023-12-15] (Extraction) schedule note: Tune embedding scoring for Extraction
