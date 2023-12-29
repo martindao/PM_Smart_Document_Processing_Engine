@@ -102,3 +102,5 @@ if __name__ == "__main__":
 # [2023-11-29] (PRD) schedule note: Tune embedding scoring for PRD
 
 # [2023-12-14] (Embeddings) schedule note: Tune embedding scoring for Embeddings
+
+# [2023-12-29] (Extraction) schedule note: Improve document extraction for Extraction
