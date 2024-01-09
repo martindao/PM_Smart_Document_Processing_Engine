@@ -90,3 +90,5 @@ class ReinforcementLearningModel(AdvancedNLPModel):
 # [2023-11-30] (Assignments) schedule note: Add diagnostics for Assignments
 
 # [2023-12-15] (Extraction) schedule note: Tune embedding scoring for Extraction
+
+# [2024-01-09] (Embeddings) schedule note: Improve document extraction for Embeddings
