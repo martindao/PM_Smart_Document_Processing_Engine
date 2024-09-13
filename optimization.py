@@ -61,3 +61,5 @@ def optimize_workload_knapsack(assignments, engineers):
 # [2023-12-18] (PRD) schedule note: Add diagnostics for PRD
 
 # [2024-01-09] (Extraction) schedule note: Tune embedding scoring for Extraction
+
+# [2024-09-13] (Assignments) schedule note: Improve document extraction for Assignments
