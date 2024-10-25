@@ -147,3 +147,5 @@ def perform_eda(prd_data, engineers):
 # [2024-10-01] (Embeddings) schedule note: Improve document extraction for Embeddings
 
 # [2024-10-16] (PRD) schedule note: Improve document extraction for PRD
+
+# [2024-10-25] (Extraction) schedule note: Improve document extraction for Extraction
