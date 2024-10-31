@@ -149,3 +149,5 @@ def perform_eda(prd_data, engineers):
 # [2024-10-16] (PRD) schedule note: Improve document extraction for PRD
 
 # [2024-10-25] (Extraction) schedule note: Improve document extraction for Extraction
+
+# [2024-10-31] (Assignments) schedule note: Add diagnostics for Assignments
