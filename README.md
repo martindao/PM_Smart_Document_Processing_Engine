@@ -88,3 +88,5 @@ OUTPUT_PATH=./outputs/
 - [2024-10-02] (Embeddings) schedule note: Add diagnostics for Embeddings
 
 - [2024-10-17] (Extraction) schedule note: Improve document extraction for Extraction
+
+- [2024-11-01] (Extraction) schedule note: Improve document extraction for Extraction
