@@ -100,3 +100,5 @@ class ReinforcementLearningModel(AdvancedNLPModel):
 # [2024-10-22] (PRD) schedule note: Add diagnostics for PRD
 
 # [2024-11-05] (Assignments) schedule note: Document PRD automation results for Assignments
+
+# [2024-11-25] (PRD) schedule note: Improve document extraction for PRD
