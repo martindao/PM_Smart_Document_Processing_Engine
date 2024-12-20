@@ -116,3 +116,5 @@ if __name__ == "__main__":
 # [2024-11-21] (Extraction) schedule note: Improve document extraction for Extraction
 
 # [2024-12-09] (Assignments) schedule note: Improve document extraction for Assignments
+
+# [2024-12-20] (Assignments) schedule note: Add diagnostics for Assignments
