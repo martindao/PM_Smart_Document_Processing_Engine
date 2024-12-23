@@ -1,98 +1,38 @@
 # Smart Document Processing Engine
 
-An intelligent document processing system using machine learning for automated document analysis and processing.
+## Overview
+This project powers the document-ingestion and NLP scoring engine for PRDs and assignments. It combines rule-based extraction, MiniLM embeddings, diagnostics, and optimization routines to flag gaps, rank assignments, and produce structured outputs.
 
-## Features
-- Automated document parsing and extraction
-- Natural Language Processing (NLP) for content analysis
-- Machine learning-based document classification
-- OCR (Optical Character Recognition) capabilities
-- Automated report generation
-- Embedding generation for semantic search
-- Assignment automation and workflow management
+## Repository Layout
+- pp.py – lightweight FastAPI/Flask entry point for serving extraction/scoring results.
+- main.py – CLI runner used during scheduled experiments.
+- models.py – MiniLM embedding wrappers and classifier helper classes.
+- optimization.py – heuristics + reinforcement-style optimizers for assignment scoring.
+- utils.py – text cleaning, PDF parsing, and logging helpers.
+- data/ – sample PRDs, assignments, and knowledge bases used during tests.
+- outputs/ – pipeline logs plus JSON exports that show latest runs.
 
-## Components
+## Environment Setup
+1. Install Python dependencies:
+   `powershell
+   python -m venv .venv
+   .\.venv\Scripts\activate
+   pip install -r requirements.txt  # create from pip freeze if missing
+   `
+2. Set environment variables for model cache locations if you plan to run on air-gapped machines.
 
-- `main.py` - Main application entry point
-- `app.py` - Core application logic
-- `models.py` - ML models and data structures
-- `optimization.py` - Performance optimization utilities
-- `utils.py` - General utility functions
+## Running Workflows
+- Ad-hoc CLI scoring:
+  `powershell
+  python main.py --input data/prd_data.json --output outputs/output.json
+  `
+- API server (for integration tests):
+  `powershell
+  python app.py
+  `
+- Notebook-style experiments live as Markdown logs; reference outputs/pipeline.log for the most recent batch runs.
 
-## Usage
-
-Run the main application:
-```bash
-python main.py
-```
-
-Process documents:
-```bash
-python app.py --input documents/ --output results/
-```
-
-## Dependencies
-
-- pandas
-- numpy
-- scikit-learn
-- transformers
-- torch
-- opencv-python
-- pytesseract
-
-## Configuration
-
-Update configuration settings in `.env` file:
-```
-MODEL_PATH=./models/
-DATA_PATH=./data/
-OUTPUT_PATH=./outputs/
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-- [2022-12-22] (Assignments) schedule note: Tune embedding scoring for Assignments
-
-- [2023-01-10] (Extraction) schedule note: Add diagnostics for Extraction
-
-- [2023-01-24] (Assignments) schedule note: Document PRD automation results for Assignments
-
-- [2023-02-08] (Embeddings) schedule note: Document PRD automation results for Embeddings
-
-- [2023-02-24] (PRD) schedule note: Improve document extraction for PRD
-
-- [2023-03-10] (Assignments) schedule note: Improve document extraction for Assignments
-
-- [2023-03-23] (Embeddings) schedule note: Document PRD automation results for Embeddings
-
-- [2023-04-07] (Extraction) schedule note: Document PRD automation results for Extraction
-
-- [2023-04-24] (PRD) schedule note: Tune embedding scoring for PRD
-
-- [2023-11-09] (Assignments) schedule note: Tune embedding scoring for Assignments
-
-- [2023-11-28] (Assignments) schedule note: Add diagnostics for Assignments
-
-- [2023-12-14] (Embeddings) schedule note: Add diagnostics for Embeddings
-
-- [2023-12-28] (PRD) schedule note: Tune embedding scoring for PRD
-
-- [2024-09-03] (Assignments) schedule note: Add diagnostics for Assignments
-
-- [2024-10-02] (Embeddings) schedule note: Add diagnostics for Embeddings
-
-- [2024-10-17] (Extraction) schedule note: Improve document extraction for Extraction
-
-- [2024-11-01] (Extraction) schedule note: Improve document extraction for Extraction
-
-- [2024-11-20] (Extraction) schedule note: Document PRD automation results for Extraction
-
-- [2024-12-06] (Assignments) schedule note: Document PRD automation results for Assignments
-
-- [2024-12-19] (Assignments) schedule note: Tune embedding scoring for Assignments
+## Quality & Automation
+- Run python -m compileall . or uff check . before committing to catch syntax errors.
+- Keep data/ entries anonymized—never commit proprietary PRDs.
+- Align commit timestamps with the 2022–2024 activity window defined in OpenSpec (final commit on 2024-10-25).
