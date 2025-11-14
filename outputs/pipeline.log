@@ -1,0 +1,73 @@
+2024-10-19 08:52:38,109 - INFO - Use pytorch device_name: cpu
+2024-10-19 08:52:38,109 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 08:52:59,757 - INFO - Extracted sections: Objectives, Functional Requirements, User Personas
+2024-10-19 08:52:59,758 - INFO - Basic Mode Task Assignments: [('As a user, I want Displays key metrics such as cycle time, deployment frequency, change failure rate, and MTTR. so that I can improve productivity.', 'John'), ('As a user, I want Supports historical trend visualization over 7, 30, and 90-day windows. so that I can improve productivity.', 'Alex'), ('As a user, I want Highlights anomalies (e.g., spike in change failure rate). so that I can improve productivity.', 'Rachel'), ('As a user, I want Recommends action plans (e.g., optimize CI/CD pipeline). so that I can improve productivity.', 'Sarah'), ('As a user, I want Automatically generates sprint progress updates. so that I can improve productivity.', 'John'), ('As a user, I want Tracks completed vs. pending stories for each sprint. so that I can improve productivity.', 'Alex'), ('As a user, I want Compares performance across multiple teams. so that I can improve productivity.', 'Rachel'), ('As a user, I want Identifies outliers in productivity. so that I can improve productivity.', 'Sarah')]
+2024-10-19 08:53:16,404 - INFO - Extracted sections: Objectives, Functional Requirements, User Personas
+2024-10-19 08:53:16,404 - INFO - Basic Mode Task Assignments: [('As a user, I want Displays key metrics such as cycle time, deployment frequency, change failure rate, and MTTR. so that I can improve productivity.', 'John'), ('As a user, I want Supports historical trend visualization over 7, 30, and 90-day windows. so that I can improve productivity.', 'Alex'), ('As a user, I want Highlights anomalies (e.g., spike in change failure rate). so that I can improve productivity.', 'Rachel'), ('As a user, I want Recommends action plans (e.g., optimize CI/CD pipeline). so that I can improve productivity.', 'Sarah'), ('As a user, I want Automatically generates sprint progress updates. so that I can improve productivity.', 'John'), ('As a user, I want Tracks completed vs. pending stories for each sprint. so that I can improve productivity.', 'Alex'), ('As a user, I want Compares performance across multiple teams. so that I can improve productivity.', 'Rachel'), ('As a user, I want Identifies outliers in productivity. so that I can improve productivity.', 'Sarah')]
+2024-10-19 08:53:27,223 - INFO - Extracted sections: Objectives, Functional Requirements, User Personas
+2024-10-19 08:53:27,223 - INFO - Basic Mode Task Assignments: [('As a user, I want Displays key metrics such as cycle time, deployment frequency, change failure rate, and MTTR. so that I can improve productivity.', 'John'), ('As a user, I want Supports historical trend visualization over 7, 30, and 90-day windows. so that I can improve productivity.', 'Alex'), ('As a user, I want Highlights anomalies (e.g., spike in change failure rate). so that I can improve productivity.', 'Rachel'), ('As a user, I want Recommends action plans (e.g., optimize CI/CD pipeline). so that I can improve productivity.', 'Sarah'), ('As a user, I want Automatically generates sprint progress updates. so that I can improve productivity.', 'John'), ('As a user, I want Tracks completed vs. pending stories for each sprint. so that I can improve productivity.', 'Alex'), ('As a user, I want Compares performance across multiple teams. so that I can improve productivity.', 'Rachel'), ('As a user, I want Identifies outliers in productivity. so that I can improve productivity.', 'Sarah')]
+2024-10-19 08:53:45,142 - INFO - Use pytorch device_name: cpu
+2024-10-19 08:53:45,142 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 08:55:23,744 - INFO - Use pytorch device_name: cpu
+2024-10-19 08:55:23,744 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 08:55:26,139 - INFO - Advanced Mode Task Assignments: [('As a user, I want Displays key metrics such as cycle time, deployment frequency, change failure rate, and MTTR. so that I can improve productivity.', 'Alex'), ('As a user, I want Supports historical trend visualization over 7, 30, and 90-day windows. so that I can improve productivity.', 'Sarah'), ('As a user, I want Highlights anomalies (e.g., spike in change failure rate). so that I can improve productivity.', 'Sarah'), ('As a user, I want Recommends action plans (e.g., optimize CI/CD pipeline). so that I can improve productivity.', 'Rachel'), ('As a user, I want Automatically generates sprint progress updates. so that I can improve productivity.', 'Alex'), ('As a user, I want Tracks completed vs. pending stories for each sprint. so that I can improve productivity.', 'Rachel'), ('As a user, I want Compares performance across multiple teams. so that I can improve productivity.', 'Alex'), ('As a user, I want Identifies outliers in productivity. so that I can improve productivity.', 'Sarah')]
+2024-10-19 08:55:26,167 - INFO - Evaluation Results: {'Precision': np.float64(0.0), 'Recall': np.float64(0.0), 'F1-Score': np.float64(0.0), 'Workload Variance': np.float64(1.5)}
+2024-10-19 08:55:26,167 - INFO - Performing EDA...
+2024-10-19 08:55:26,273 - INFO - Saved EDA plot as eda_prd_overview.png
+2024-10-19 08:55:26,363 - INFO - Saved EDA plot as eda_engineer_roles.png
+2024-10-19 08:55:37,492 - INFO - Extracted sections: Objectives, Functional Requirements, User Personas
+2024-10-19 08:55:37,492 - INFO - Basic Mode Task Assignments: [('As a user, I want Displays key metrics such as cycle time, deployment frequency, change failure rate, and MTTR. so that I can improve productivity.', 'John'), ('As a user, I want Supports historical trend visualization over 7, 30, and 90-day windows. so that I can improve productivity.', 'Alex'), ('As a user, I want Highlights anomalies (e.g., spike in change failure rate). so that I can improve productivity.', 'Rachel'), ('As a user, I want Recommends action plans (e.g., optimize CI/CD pipeline). so that I can improve productivity.', 'Sarah'), ('As a user, I want Automatically generates sprint progress updates. so that I can improve productivity.', 'John'), ('As a user, I want Tracks completed vs. pending stories for each sprint. so that I can improve productivity.', 'Alex'), ('As a user, I want Compares performance across multiple teams. so that I can improve productivity.', 'Rachel'), ('As a user, I want Identifies outliers in productivity. so that I can improve productivity.', 'Sarah')]
+2024-10-19 08:55:37,519 - INFO - Evaluation Results: {'Precision': np.float64(0.0), 'Recall': np.float64(0.0), 'F1-Score': np.float64(0.0), 'Workload Variance': np.float64(0.0)}
+2024-10-19 08:55:37,519 - INFO - Performing EDA...
+2024-10-19 08:55:37,610 - INFO - Saved EDA plot as eda_prd_overview.png
+2024-10-19 08:55:37,689 - INFO - Saved EDA plot as eda_engineer_roles.png
+2024-10-19 08:55:47,209 - INFO - Use pytorch device_name: cpu
+2024-10-19 08:55:47,209 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 08:55:50,506 - INFO - Advanced Mode Task Assignments: [('As a user, I want Displays key metrics such as cycle time, deployment frequency, change failure rate, and MTTR. so that I can improve productivity.', 'Alex'), ('As a user, I want Supports historical trend visualization over 7, 30, and 90-day windows. so that I can improve productivity.', 'Sarah'), ('As a user, I want Highlights anomalies (e.g., spike in change failure rate). so that I can improve productivity.', 'Sarah'), ('As a user, I want Recommends action plans (e.g., optimize CI/CD pipeline). so that I can improve productivity.', 'Rachel'), ('As a user, I want Automatically generates sprint progress updates. so that I can improve productivity.', 'Alex'), ('As a user, I want Tracks completed vs. pending stories for each sprint. so that I can improve productivity.', 'Rachel'), ('As a user, I want Compares performance across multiple teams. so that I can improve productivity.', 'Alex'), ('As a user, I want Identifies outliers in productivity. so that I can improve productivity.', 'Sarah')]
+2024-10-19 08:55:50,506 - INFO - Optimized Mode Task Assignments: [('As a user, I want Displays key metrics such as cycle time, deployment frequency, change failure rate, and MTTR. so that I can improve productivity.', 'Alex'), ('As a user, I want Supports historical trend visualization over 7, 30, and 90-day windows. so that I can improve productivity.', 'Sarah'), ('As a user, I want Highlights anomalies (e.g., spike in change failure rate). so that I can improve productivity.', 'Sarah'), ('As a user, I want Recommends action plans (e.g., optimize CI/CD pipeline). so that I can improve productivity.', 'Rachel'), ('As a user, I want Automatically generates sprint progress updates. so that I can improve productivity.', 'Alex'), ('As a user, I want Tracks completed vs. pending stories for each sprint. so that I can improve productivity.', 'Rachel'), ('As a user, I want Compares performance across multiple teams. so that I can improve productivity.', 'Alex'), ('As a user, I want Identifies outliers in productivity. so that I can improve productivity.', 'Sarah')]
+2024-10-19 08:55:50,507 - INFO - Optimized Assignments (Knapsack DP): [('As a user, I want Identifies outliers in productivity. so that I can improve productivity.', 'Sarah'), ('As a user, I want Compares performance across multiple teams. so that I can improve productivity.', 'Rachel'), ('As a user, I want Tracks completed vs. pending stories for each sprint. so that I can improve productivity.', 'Alex'), ('As a user, I want Automatically generates sprint progress updates. so that I can improve productivity.', 'John')]
+2024-10-19 08:55:50,535 - INFO - Evaluation Results: {'Precision': np.float64(0.0), 'Recall': np.float64(0.0), 'F1-Score': np.float64(0.0), 'Workload Variance': np.float64(0.0)}
+2024-10-19 08:55:50,535 - INFO - Performing EDA...
+2024-10-19 08:55:50,637 - INFO - Saved EDA plot as eda_prd_overview.png
+2024-10-19 08:55:50,725 - INFO - Saved EDA plot as eda_engineer_roles.png
+2024-10-19 09:16:35,186 - INFO - Extracted sections: Objectives, Functional Requirements, User Personas
+2024-10-19 09:16:35,187 - INFO - Basic Mode Task Assignments: [('As a user, I want Displays key metrics such as cycle time, deployment frequency, change failure rate, and MTTR. so that I can improve productivity.', 'John'), ('As a user, I want Supports historical trend visualization over 7, 30, and 90-day windows. so that I can improve productivity.', 'Alex'), ('As a user, I want Highlights anomalies (e.g., spike in change failure rate). so that I can improve productivity.', 'Rachel'), ('As a user, I want Recommends action plans (e.g., optimize CI/CD pipeline). so that I can improve productivity.', 'Sarah'), ('As a user, I want Automatically generates sprint progress updates. so that I can improve productivity.', 'John'), ('As a user, I want Tracks completed vs. pending stories for each sprint. so that I can improve productivity.', 'Alex'), ('As a user, I want Compares performance across multiple teams. so that I can improve productivity.', 'Rachel'), ('As a user, I want Identifies outliers in productivity. so that I can improve productivity.', 'Sarah')]
+2024-10-19 09:16:35,210 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:16:35,210 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:16:37,775 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:16:37,775 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:16:39,816 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:16:39,816 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:16:41,800 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:16:41,800 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:16:43,724 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:16:43,724 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:16:45,672 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:16:45,672 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:16:48,024 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:16:48,024 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:16:49,987 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:16:49,987 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:16:51,925 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:16:51,925 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:16:53,964 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:16:53,964 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:16:56,018 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:16:56,019 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:16:57,949 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:16:57,949 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:16:59,944 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:16:59,944 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:17:01,978 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:17:01,978 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:17:03,930 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:17:03,930 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:17:05,926 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:17:05,927 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:17:07,871 - INFO - Using default tokenizer.
+2024-10-19 09:17:07,875 - INFO - Use pytorch device_name: cpu
+2024-10-19 09:17:07,875 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-10-19 09:17:10,014 - INFO - Evaluation Results: {'Skill Match Score': np.float64(-0.003016863949596882), 'Workload Variance': np.float64(0.0), 'Gini Coefficient of Workload': 0.0, 'BLEU Score': np.float64(1.0), 'ROUGE Score': np.float64(1.0), 'Semantic Similarity Score': np.float64(1.0)}
+2024-10-19 09:17:10,014 - INFO - Performing EDA...
+2024-10-19 09:17:10,293 - INFO - Saved EDA plot as eda_prd_overview.png
+2024-10-19 09:17:10,375 - INFO - Saved EDA plot as eda_engineer_roles.png
